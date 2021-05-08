@@ -11,7 +11,7 @@ build:
   image_template: tomcat9
 
 deploy:
-  context: anushab7/DEV
+  context: anushab7/QA
   replicas: 2
   port: 
    - 8080

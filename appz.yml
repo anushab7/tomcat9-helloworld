@@ -18,7 +18,7 @@ deploy:
 
 properties:
   title: Tomcat HelloWorld - Saturday
-  head_color : Orange
+  head_color : blue
   threads: 5
   delay: 15
   next: 15

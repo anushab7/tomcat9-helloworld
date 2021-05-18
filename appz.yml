@@ -18,10 +18,10 @@ deploy:
 
 properties:
   title: Tomcat HelloWorld - Tuesday
-  head_color : Green
+  head_color : Blue
   threads: 5
   delay: 15
   next: 15
   download: true
   random : true
-  nano : 98
+  nano : 99

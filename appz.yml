@@ -17,11 +17,11 @@ deploy:
    - 8080
 
 properties:
-  title: Tomcat HelloWorld - Wednesday06022021
+  title: Tomcat HelloWorld - Wednesday
   head_color : Green
   threads: 5
   delay: 15
   next: 15
   download: true
   random : true
-  nano : 98
+  nano : 99

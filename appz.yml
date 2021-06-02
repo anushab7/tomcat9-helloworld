@@ -17,8 +17,8 @@ deploy:
    - 8080
 
 properties:
-  title: Tomcat HelloWorld - Wednesday05192021
-  head_color : Blue
+  title: Tomcat HelloWorld - Wednesday06022021
+  head_color : Green
   threads: 5
   delay: 15
   next: 15

@@ -5,13 +5,13 @@ app:
 
 build:
   version: 0.4
-  env: QA
+  env: PROD
   build_file: pom.xml
   output_files: output/*.war
   image_template: tomcat9
 
 deploy:
-  context: anushab7/QA
+  context: anushab7/PROD
   replicas: 2
   port: 
    - 8080

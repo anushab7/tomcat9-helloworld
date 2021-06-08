@@ -17,7 +17,7 @@ deploy:
    - 8080
 
 properties:
-  title: Tomcat HelloWorld - Thrusday
+  title: Tomcat HelloWorld - Tuesday-DEV
   head_color : RoyalBlue
   threads: 5
   delay: 15
